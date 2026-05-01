@@ -13,7 +13,11 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on fintech SDK<br><br>🌱 I'm currently learning GO,PYTHON,JAVASCRIPT,TYPESCRIPT,DEVOPS,DOCKER AND SYSYTEM DESIGNS<br><br>👯 I'm looking to collaborate on both open source and closed source<br><br>📫 How to reach me elishagerson2@gmail.com</p>
+🔭 I'm currently working on **fintech SDK** it is a lightweight SDK which aims at simplfying payment integration using different fintech companies      provider like clickpesa <br>
+  <br>🌱 I'm currently learning GO,PYTHON,JAVASCRIPT,TYPESCRIPT,DEVOPS,DOCKER AND SYSYTEM DESIGNS<br>
+  <br>👯 I'm looking to collaborate on both open source and closed source<br>
+  <br>📫 How to reach me elishagerson2@gmail.com
+
 
 ###
 
