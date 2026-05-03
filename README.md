@@ -15,10 +15,16 @@
 
 ###
 
-🔭 I'm currently working on **fintech SDK** it is a lightweight SDK which aims at simplfying payment integration using different fintech companies      provider like clickpesa <br>
-  <br>🌱 I'm currently learning GO,PYTHON,JAVASCRIPT,TYPESCRIPT,DEVOPS,DOCKER AND SYSYTEM DESIGNS<br>
-  <br>👯 I'm looking to collaborate on both open source and closed source<br>
-  <br>📫 How to reach me elishagerson2@gmail.com
+🔭 I'm currently working on **fintech SDK**, a lightweight SDK aimed at simplifying payment integration with providers like ClickPesa.
+
+🌱 I'm currently learning [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=100&color=13A5F7FF&vCenter=true&width=368&height=11&lines=GO;PYTHON;JAVASCRIPT;TYPESCRIPT;DEVOPS;DOCKER;SYSYTEM+DESIGNS)](https://git.io/typing-svg)
+
+
+
+👯 I'm looking to collaborate on both open-source and closed-source projects...
+
+📫 **How to reach me:** [elishagerson2@gmail.com](mailto:elishagerson2@gmail.com)
+
 
 
 ###
