@@ -17,7 +17,7 @@
 
 🔭 I'm currently working on **fintech SDK**, a lightweight SDK aimed at simplifying payment integration with providers like ClickPesa.
 
-🌱 I'm currently learning [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=100&color=13A5F7FF&vCenter=true&width=368&height=11&lines=GO;PYTHON;JAVASCRIPT;TYPESCRIPT;DEVOPS;DOCKER;SYSYTEM+DESIGNS)](https://git.io/typing-svg)
+🌱 I'm currently learning:   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=100&color=13A5F7FF&vCenter=true&width=368&height=11&lines=GO;PYTHON;JAVASCRIPT;TYPESCRIPT;DEVOPS;DOCKER;SYSYTEM+DESIGNS)](https://git.io/typing-svg)
 
 
 
