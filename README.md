@@ -5,7 +5,9 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Elisha Gerson</h1>
+<h1 align="center">Hi 👋, I'm Elisha Gerson</h1><br>
+
+
 
 ###
 
@@ -123,4 +125,5 @@
 </picture>
 
 ###
+![](https://api.visitorbadge.io/api/VisitorHit?user=somebody1011&repo=github-visitors-badge&countColor=%237B1E7A)
 
